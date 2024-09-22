@@ -1,2 +1,4 @@
 # Ecommerce-Website
-This is my first project. E-commerce website using MERN and stripe for payment system.
+This is my first project. 
+<br>
+E-commerce website using MERN and stripe for payment system.
